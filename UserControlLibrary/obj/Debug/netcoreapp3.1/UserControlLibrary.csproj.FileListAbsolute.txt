@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\SafeCopy\UserControlLibrary\bin\Debug\netcoreapp3.1\UserControlLibrary.deps.json
+C:\Users\User\source\repos\SafeCopy\UserControlLibrary\bin\Debug\netcoreapp3.1\UserControlLibrary.dll
+C:\Users\User\source\repos\SafeCopy\UserControlLibrary\bin\Debug\netcoreapp3.1\UserControlLibrary.pdb
+C:\Users\User\source\repos\SafeCopy\UserControlLibrary\obj\Debug\netcoreapp3.1\UserControlLibrary.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SafeCopy\UserControlLibrary\obj\Debug\netcoreapp3.1\UserControlLibrary.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SafeCopy\UserControlLibrary\obj\Debug\netcoreapp3.1\UserControlLibrary.AssemblyInfo.cs
+C:\Users\User\source\repos\SafeCopy\UserControlLibrary\obj\Debug\netcoreapp3.1\UserControlLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SafeCopy\UserControlLibrary\obj\Debug\netcoreapp3.1\UserControlLibrary.dll
+C:\Users\User\source\repos\SafeCopy\UserControlLibrary\obj\Debug\netcoreapp3.1\UserControlLibrary.pdb
+C:\Users\User\source\repos\SafeCopy\UserControlLibrary\obj\Debug\netcoreapp3.1\UserControlLibrary.Controls.PathField.resources
+C:\Users\User\source\repos\SafeCopy\UserControlLibrary\obj\Debug\netcoreapp3.1\UserControlLibrary.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SafeCopy\UserControlLibrary\obj\Debug\netcoreapp3.1\UserControlLibrary.Controls.PathBox.resources

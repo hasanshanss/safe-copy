@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SafeCopy": {
+      "commandName": "Project",
+      "commandLineArgs": "E:\\ D:\\Archive"
+    }
+  }
+}

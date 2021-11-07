@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\SafeCopy\SafeCopy\bin\Debug\netcoreapp3.1\SafeCopy.exe
+C:\Users\User\source\repos\SafeCopy\SafeCopy\bin\Debug\netcoreapp3.1\SafeCopy.deps.json
+C:\Users\User\source\repos\SafeCopy\SafeCopy\bin\Debug\netcoreapp3.1\SafeCopy.runtimeconfig.json
+C:\Users\User\source\repos\SafeCopy\SafeCopy\bin\Debug\netcoreapp3.1\SafeCopy.runtimeconfig.dev.json
+C:\Users\User\source\repos\SafeCopy\SafeCopy\bin\Debug\netcoreapp3.1\SafeCopy.dll
+C:\Users\User\source\repos\SafeCopy\SafeCopy\bin\Debug\netcoreapp3.1\SafeCopy.pdb
+C:\Users\User\source\repos\SafeCopy\SafeCopy\obj\Debug\netcoreapp3.1\SafeCopy.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SafeCopy\SafeCopy\obj\Debug\netcoreapp3.1\SafeCopy.AssemblyInfo.cs
+C:\Users\User\source\repos\SafeCopy\SafeCopy\obj\Debug\netcoreapp3.1\SafeCopy.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SafeCopy\SafeCopy\obj\Debug\netcoreapp3.1\SafeCopy.dll
+C:\Users\User\source\repos\SafeCopy\SafeCopy\obj\Debug\netcoreapp3.1\SafeCopy.pdb
+C:\Users\User\source\repos\SafeCopy\SafeCopy\obj\Debug\netcoreapp3.1\SafeCopy.genruntimeconfig.cache

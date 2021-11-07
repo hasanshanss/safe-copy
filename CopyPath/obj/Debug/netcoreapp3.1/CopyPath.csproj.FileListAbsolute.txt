@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\SafeCopy\CopyPath\obj\Debug\netcoreapp3.1\CopyPath.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SafeCopy\CopyPath\obj\Debug\netcoreapp3.1\CopyPath.Main.resources
+C:\Users\User\source\repos\SafeCopy\CopyPath\obj\Debug\netcoreapp3.1\CopyPath.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SafeCopy\CopyPath\obj\Debug\netcoreapp3.1\CopyPath.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SafeCopy\CopyPath\obj\Debug\netcoreapp3.1\CopyPath.AssemblyInfo.cs
+C:\Users\User\source\repos\SafeCopy\CopyPath\obj\Debug\netcoreapp3.1\CopyPath.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SafeCopy\CopyPath\bin\Debug\netcoreapp3.1\CopyPath.exe
+C:\Users\User\source\repos\SafeCopy\CopyPath\bin\Debug\netcoreapp3.1\CopyPath.deps.json
+C:\Users\User\source\repos\SafeCopy\CopyPath\bin\Debug\netcoreapp3.1\CopyPath.runtimeconfig.json
+C:\Users\User\source\repos\SafeCopy\CopyPath\bin\Debug\netcoreapp3.1\CopyPath.runtimeconfig.dev.json
+C:\Users\User\source\repos\SafeCopy\CopyPath\bin\Debug\netcoreapp3.1\CopyPath.dll
+C:\Users\User\source\repos\SafeCopy\CopyPath\bin\Debug\netcoreapp3.1\CopyPath.pdb
+C:\Users\User\source\repos\SafeCopy\CopyPath\obj\Debug\netcoreapp3.1\CopyPath.dll
+C:\Users\User\source\repos\SafeCopy\CopyPath\obj\Debug\netcoreapp3.1\CopyPath.pdb
+C:\Users\User\source\repos\SafeCopy\CopyPath\obj\Debug\netcoreapp3.1\CopyPath.genruntimeconfig.cache
