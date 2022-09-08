@@ -1,2 +1,2 @@
-# safe-copy
-Choose paths - let the soft do other things for you ;)
+# Local GitHub
+Sync two changed folders with each other.
